@@ -44,7 +44,7 @@ nav ul li a{
 section{
 	width: 700px;
 	background: #B3B3B3;
-	height: 300px;
+	height: auto;
 	margin-top: 10px;
 	border-radius: 3px;
 	float: left;
@@ -52,7 +52,7 @@ section{
 
 article{
 	width: 450px;
-	height: 200px;
+	height: auto;
 	float: right;
 	margin: 20px;
 }
@@ -68,7 +68,7 @@ p{
 aside{
 	width: 280px;
 	background: #f47920;
-	height: 300px;
+	height: auto;
 	float: left;
 	margin-left: 20px;
 	margin-top: 10px;
